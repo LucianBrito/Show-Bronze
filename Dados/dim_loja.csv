@@ -1,0 +1,5 @@
+﻿id_loja,nome_loja,tipo_canal,url,ativo
+1,E-commerce Próprio,Direto,https://www.showbronze.com.br,True
+2,Mercado Livre,Marketplace,https://www.mercadolivre.com.br,True
+3,Revendedor Cosmed Bronze,B2B,https://www.cosmedbronze.com.br,True
+4,Revendedor Armazém do Bronze,B2B,https://armazemdobronze.com.br,True

@@ -1,0 +1,14 @@
+﻿id_categoria,nome_categoria,descricao,ordem_exibicao
+1,TRATAMENTO,Categoria de TRATAMENTO,1
+2,KITS,Categoria de KITS,2
+3,ÓLEOS,Categoria de ÓLEOS,3
+4,PARAFINAS,Categoria de PARAFINAS,4
+5,BANHO DE LUA,Categoria de BANHO DE LUA,5
+6,PÓS SOL,Categoria de PÓS SOL,6
+7,ILUMINADORES,Categoria de ILUMINADORES,7
+8,ESFOLIANTES,Categoria de ESFOLIANTES,8
+9,HIDRATANTES,Categoria de HIDRATANTES,9
+10,OX,Categoria de OX,10
+11,SABONETES,Categoria de SABONETES,11
+12,PROTEÇÃO SOLAR,Categoria de PROTEÇÃO SOLAR,12
+13,AUTOBRONZEADORES,Categoria de AUTOBRONZEADORES,13
